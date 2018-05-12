@@ -1,0 +1,26 @@
+_repo: In-Door-Gardening-for-Every-Week-in-the-Year--13-Showing-the-Most-Successful-Treatment-for-al__31423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keane, William, gardener
+    gutenberg_agent_id: '35218'
+    url: http://www.gutenberg.org/2009/agents/35218
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greenhouses'
+- !lcc 'SB'
+title: "In-Door Gardening for Every Week in the Year\r\nShowing the Most Successful\
+  \ Treatment for all Plants Cultivated in the Greenhouse, Conservatory, Stove, Pit,\
+  \ Orchid, and Forcing-house"
+url: http://www.gutenberg.org/ebooks/31423
