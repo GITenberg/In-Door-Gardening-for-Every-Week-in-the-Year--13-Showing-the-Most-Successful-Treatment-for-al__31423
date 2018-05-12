@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35218'
     url: http://www.gutenberg.org/2009/agents/35218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31423#In-Door-Gardening-for-Every-Week-in-the-Year--13-Showing-the-Most-Successful-Treatment-for-al_
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
